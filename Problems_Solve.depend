@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1485790871 source:r:\problems_subeen\problems_solve\1.c
+	<stdio.h>
+	<stdlib.h>
+
+1485791115 source:r:\problems_subeen\problems_solve\2.c
+	<stdio.h>
+
